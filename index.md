@@ -12,7 +12,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 ## Links
 
 * [Syllabus](syllabus.html)
-* [Schedule/Readings](schedule.html)
+* [Lecture Schedule/Readings](schedule.html)
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Resources](resources/index.html)
