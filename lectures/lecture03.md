@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Overloading, JUnit"
+title: "Lecture 3: Overloading, JUnit"
 ---
 
 <!--
