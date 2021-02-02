@@ -67,17 +67,17 @@ Grades are assigned on a 100-point scale:
 > Numeric Range|Letter Grade
 > -------------|------------
 > 90-100|A (4.0)
-> 85-90|B+ (3.5)
-> 80-85|B (3.0)
-> 75-80|C+ (2.5)
-> 70-75|C (2.0)
-> 60-70|D (1.0)
-> 0-60|F (0.0)
+> 87-90 |B+ (3.5)
+> 80-86 |B (3.0)
+> 77-80 |C+ (2.5)
+> 70-76 |C (2.0)
+> 60-70 |D (1.0)
+> 0-60  |F (0.0)
 
 Your overall grade for the course will be determined as follows:
 
 -   Homework and programming assignments: 30%
--   Exams (3 midterm exams and 1 comprehensive final exam): 65% <sup><b>\*</b></sup>
+-   Exams (3 midterm exams and 1 comprehensive final exam - lowest dropped): 65% <sup><b>\*</b></sup>
 -   Labs, attendance/participation: 5%
 
 <sup><b>\*</b></sup> Note that you must earn a score of 70 or above on *at least one exam* and have at least a 60% average on your top 3 exam scores in order to receive a grade of 2.0 or higher for the course.
@@ -98,14 +98,14 @@ You **must** make a legitimate attempt to complete every homework assignment. We
 
 Assignments and labs will be posted as zip files on the [course web page](https://ycpcs.github.io/cs201-spring2021).
 
-Assignments and labs will be submitted using the [Marmoset server](https://cs.ycp.edu/marmoset). You will receive an email containing the username and password you should use for this server if you do not already have an account.
+Assignments and labs will be submitted using the [Marmoset server](https://cs.ycp.edu/marmoset). If you do not already have an account, you will receive an email containing the username and password for this server.
 
 ### Lab Policy
 
-**In order to receive credit for completing a lab**, you need to get a sign-off from your instructor or a tutor by demonstrating your completed lab *in person* or *virtually*. **Note:** Simply submitting the lab to Marmoset is *not* sufficient. There are two options for this:
+**In order to receive credit for completing a lab**, you need to get a sign-off from your instructor or a tutor by demonstrating your completed lab *in person* (or *virtually* if you are fully remote). **Note:** Simply submitting the lab to Marmoset is *not* sufficient. There are two options for this:
 
 1. For 100% of full credit: Get a sign-off by the end of the *next* class that your cohort is in the lab (i.e. the class that follows the two from the prior in class session), or if you are fully remote following the Cohort A (Tues in-class) schedule. Please refer to Canvas for the list of students in each cohort. 
-2. For 80% of full credit: Get a sign-off **prior to the next exam.**
+2. For 80% of full credit: Get a sign-off **prior to the class before the next exam.**
 
 Any labs not completed by the exam they precede will receive no credit.
 
