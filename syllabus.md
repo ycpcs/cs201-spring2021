@@ -16,7 +16,7 @@ Office Hours: M 1-3pm, T 2-3pm, W 11am-12pm, R 8:30-9:30am, or by appointment
  Section  | Days      |  Time       | Room    | Final Exam
  -------- | --------- |  ---------- | ------- | ----------
 101       | Tues/Thur | 11:00-12:15 | KEC 123 | Tues, May 11, 10:15am-12:15pm
-102       | Tues/Thur | 12:30-1:45  | KEC 123 | Thur, May 13, 10:15am-12:15pm
+102       | Tues/Thur | 12:30-1:45  | KEC 119 | Thur, May 13, 10:15am-12:15pm
 
 ### Course Description
 
@@ -34,7 +34,7 @@ Mark Allen Weiss, [Data Structures & Problem Solving Using Java, 4th ed.](http:/
 
 Class meetings will be a mix of lecture/discussion and in-class lab exercises designed to illustrate the concepts we are covering. A series of programming projects in the Java programming language will be assigned at approximately 1-2 week intervals, to be completed individually. Written homework assignments may be assigned.
 
-We will use the Eclipse IDE for labs and programming assignments in Java. This is available for free from [www.eclipse.org](http://www.eclipse.org/). (You will also need the [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html).)
+We will use the Eclipse IDE for labs and programming assignments in Java. This is available for free from [www.eclipse.org](https://www.eclipse.org/downloads/). (You will also need the [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html).)
 <!--
 In-class quizzes will be given frequently, typically at the beginning of class. One missed quiz will be forgiven. Quizzes may not be made up.
 -->
