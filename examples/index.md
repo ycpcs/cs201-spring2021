@@ -5,12 +5,12 @@ title: "Example Code"
 
 This page links to additional example code.
 
-Date   | File                             | Description
------- | -------------------------------- | -----------
-Jan 30 | [Point.zip](Point.zip)           | Example class with JUnit test
-Feb 4  | [FileIO.zip](FileIO.zip)         | Examples of text file input/output
-Feb 11 | [ExampleGUI.zip](ExampleGUI.zip) | Example MVC GUI
-Apr 23 | [Change.zip](Change.zip)         | Dynamic programming to make optimal change
+File                             | Description
+-------------------------------- | -----------
+[Point.zip](Point.zip)           | Example class with JUnit test
+[FileIO.zip](FileIO.zip)         | Examples of text file input/output
+[ExampleGUI.zip](ExampleGUI.zip) | Example MVC GUI
+[Change.zip](Change.zip)         | Dynamic programming to make optimal change
 
 <!--
 Aug 31 | [Employee](Employee.zip) | Example Employee class, JUnit test
