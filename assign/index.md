@@ -5,7 +5,7 @@ title: "Assignments"
 
 This page links to homework assignments.
 
-Assignments are due by 11:59 PM on the due date, although I will **NOT** assess a late penalty if you submit your final version by 7:00 AM the following morning.
+Assignments are due by 11:59 PM on the due date, although I will **NOT** assess a late penalty if you submit your final version by 7:00 AM the following morning. **All assignment submissions MUST be done using the Eclipse SimpleMarmosetUploader plugin** (see [Resources](../resources/index.html) for installation instructions).
 
 
 > Assignment | File | Due

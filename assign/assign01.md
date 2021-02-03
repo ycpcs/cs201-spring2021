@@ -228,14 +228,15 @@ For both milestones, points may be deducted for poor coding style, including:
 
 ## Submitting
 
-When you are done with each milestone, submit the project to the Marmoset server using one of the methods below.
+When you are done with each milestone, submit the project to the Marmoset server using the SimpleMarmosetUploader Eclipse plugin.
 
 ### From Eclipse
 
-If you have the [Simple Marmoset Uploader Plugin](../resources.html) installed, select the project (**CS201\_Assign01\_Gradle**) in the package explorer and then click the blue up arrow button in the toolbar or right click and choose **Submit project...**. Enter your Marmoset username and password when prompted.  Make sure your choose **assign01\_ms1** or **assign01\_ms2** as the inbox:
+Use the [Simple Marmoset Uploader Plugin](../resources.html), by selecting the project (**CS201\_Assign01\_Gradle**) in the package explorer and then clicking the blue up arrow button in the toolbar (or right click and choose **Submit project...**). Enter your Marmoset username and password when prompted.  Make sure your choose **assign01\_ms1** or **assign01\_ms2** as the inbox:
 
 > <img src="img/assign01/upload.png" alt="Choosing the inbox for assignment 1" style="width: 400px;">
 
+<!--
 This is the recommended way to submit your work.
 
 ### From a web browser
@@ -247,6 +248,7 @@ Save the project (**CS201\_Assign01\_Gradle**) to a zip file by right-clicking i
 Upload the saved zip file to the Marmoset server as **assign01\_ms1** or **assign01\_ms2** as appropriate.
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
+-->
 
 ### After you submit
 
