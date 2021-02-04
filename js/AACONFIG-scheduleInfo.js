@@ -26,10 +26,10 @@ courseInfo.classPeriods = [
 		reading: "2.5",
 		lab: new NumberedLabGradle(5, "Drag and Drop GUI")
 	},
-// 	{
-// 		topic: new Topic("Lecture 6: GUIs", "lectures/lecture06.html"),
-// 		lab: new NumberedLabGradle(6, "GUIs")
-// 	},
+ 	{
+ 		topic: new Topic("Lecture 6: File I/O, Exceptions", "lectures/lecture06.html"),
+ 		lab: new NumberedLabGradle(6, "Text File I/O")
+ 	},
 // 	{
 // 		topic: new Topic("Lecture 7: ArrayList, Inheritance", "lectures/lecture07.html"),
 // 		reading: "4.1&ndash;4.2",

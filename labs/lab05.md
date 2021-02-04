@@ -19,14 +19,16 @@ Modify the program so that it allows the user to drag an outline of a circle aro
 
 -   A **Circle** class has been provided that defines a circle using its *center* coordinates and *radius*. Since this class has *no setters* it is *immutable*, i.e. once the object is created, it's fields cannot be changed. **DO NOT MODIFY THIS CLASS.**
 
--   Consider what information the model class should contain as there are *two* circles that the application is using - the last one placed and the new one being moved. You can use a **Circle** object for the placed circle, but consider using separate fields for the outline since it will be constantly updated. 
+-   Consider what information the model class should contain. You can use a **Circle** object for the placed circle.
 
--   Use the **handleMouseMove** controller method for when the mouse is being moved. This method should update the outline center model fields with the current mouse position coordinates. You can get the coordinates of the mouse pointer using the **e** parameter as follows:
+-   The **CirclesPanel** class should contain a field for the model as well as fields for the outlined circle's center and radius. The initial radius can be set to **START_R**.
+
+-   Use the **handleMouseMove** controller method for when the mouse is being moved. This method should update the outline center fields with the current mouse position coordinates. You can get the coordinates of the mouse pointer using the **e** parameter as follows:
 
     int x = e.getX();
     int y = e.getY();
 
--   Use the **handleMouseClick** controller method for when a mouse button is clicked. This method should make a new circle (consider the **copyCircle** model method) when the left button is clicked as well as increment the counter. When the right button is clicked it should update the radius of the outline. You can check to see which mouse button was clicked as follows:
+-   Use the **handleMouseClick** controller method for when a mouse button is clicked. This method should make a new circle (consider the **addCircle** model method) when the left button is clicked as well as increment the counter and reset the outline radius. When the right button is clicked it should increment the radius of the outline by **START_R**. You can check to see which mouse button was clicked as follows:
 
     if (e.getButton() == MouseEvent.BUTTON1) {
         // left button
