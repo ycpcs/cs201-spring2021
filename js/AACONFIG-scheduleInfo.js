@@ -30,6 +30,10 @@ courseInfo.classPeriods = [
  		topic: new Topic("Lecture 6: File I/O, Exceptions", "lectures/lecture06.html"),
  		lab: new NumberedLabGradle(6, "Text File I/O")
  	},
+ 	{
+ 		topic: new Topic("Lecture 7: Exceptions", "lectures/lecture07.html"),
+ 		lab: new NumberedLabGradle(7, "Exceptions")
+ 	},
 // 	{
 // 		topic: new Topic("Lecture 7: ArrayList, Inheritance", "lectures/lecture07.html"),
 // 		reading: "4.1&ndash;4.2",
