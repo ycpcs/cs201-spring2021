@@ -13,25 +13,25 @@ courseInfo.classPeriods = [
 	},
 	{
 		topic: new Topic("Lecture 3: Overloading, JUnit", "lectures/lecture03.html"),
-		reading: "3.1&ndash;3.9",
 		lab: new NumberedLabGradle(3, "Testing Overloaded Constructors")
 	},
 	{
 		topic: new Topic("Lecture 4: Arrays and ArrayLists", "lectures/lecture04.html"),
-		reading: "2.5&ndash;2.6",
+		reading: "3.1&ndash;3.9",
 		lab: new NumberedLabGradle(4, "Arrays and ArrayLists")
 	},
 	{
 		topic: new Topic("Lecture 5: GUIs and MVC", "lectures/lecture05.html"),
-		reading: "2.5",
 		lab: new NumberedLabGradle(5, "Drag and Drop GUI")
 	},
  	{
  		topic: new Topic("Lecture 6: File I/O, Exceptions", "lectures/lecture06.html"),
+ 		reading: "2.5&ndash;2.6",
  		lab: new NumberedLabGradle(6, "Text File I/O")
  	},
  	{
  		topic: new Topic("Lecture 7: Exceptions", "lectures/lecture07.html"),
+ 		reading: "2.5",
  		lab: new NumberedLabGradle(7, "Exceptions")
  	},
 // 	{
