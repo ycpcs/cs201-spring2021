@@ -34,11 +34,11 @@ courseInfo.classPeriods = [
  		reading: "2.5",
  		lab: new NumberedLabGradle(7, "Exceptions")
  	},
-// 	{
-// 		topic: new Topic("Lecture 7: ArrayList, Inheritance", "lectures/lecture07.html"),
-// 		reading: "4.1&ndash;4.2",
-// 		lab: new NumberedLabGradle(7, "Inheritance and Polymorphism")
-// 	},
+ 	{
+ 		topic: new Topic("Lecture 8: Inheritance", "lectures/lecture08.html"),
+ 		reading: "4.1&ndash;4.2",
+ 		lab: new NumberedLabGradle(8, "Inheritance and Polymorphism")
+ 	},
 // 	{
 // 		topic: new Topic("Lecture 8: Inheritance (continued)", "lectures/lecture08.html"),
 // 		reading: "4.3&ndash;4.4",
