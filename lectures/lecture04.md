@@ -118,13 +118,13 @@ for (int i = 0; i < coins.length; i++) {
 
 Here's what things look like at point (1):
 
-> ![image](figures/arrayOfCoins.png)
+> ![image](figures/arrayOfCoins1.png)
 
 Note that the actual array objects have not been instantiated, only the references have been created (and initialized to **null** by default).
 
 At point (2) we have allocated the objects and assigned the array element references to them which looks like:
 
-> ![image](figures/arrayOfCoins.png)
+> ![image](figures/arrayOfCoins2.png)
 
 ### Out-of-Bounds access
 
