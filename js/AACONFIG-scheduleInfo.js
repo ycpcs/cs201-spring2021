@@ -39,11 +39,11 @@ courseInfo.classPeriods = [
  		reading: "4.1&ndash;4.2",
  		lab: new NumberedLabGradle(8, "Inheritance and Polymorphism")
  	},
-// 	{
-// 		topic: new Topic("Lecture 8: Inheritance (continued)", "lectures/lecture08.html"),
-// 		reading: "4.3&ndash;4.4",
-// 		lab: new NumberedLabGradle(8, "Inheriting Fields and Methods")
-// 	},
+ 	{
+ 		topic: new Topic("Lecture 9: Inheritance (continued)", "lectures/lecture09.html"),
+ 		reading: "4.3&ndash;4.4",
+ 		lab: new NumberedLabGradle(9, "Inheriting Fields and Methods")
+ 	},
 // 	{
 // 		topic: new Topic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html"),
 // 		lab: new NumberedLabGradle(9, "Comparable, Sorting")
