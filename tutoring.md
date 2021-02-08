@@ -31,4 +31,4 @@ We will have in-class tutors this year for assistance with the labs and assignme
 * 1:15-1:45 section (KEC 119): **Madison Tibbett**
 -->
 
-Please see [How to ask for help](http://faculty.ycp.edu/~dhovemey/askingForHelp.html) for some advice on how to ask good questions (ones that lead to learning.)
+Please see [How to ask for help](HowToAskForHelp.html) for some advice on how to ask good questions (ones that lead to learning.)
