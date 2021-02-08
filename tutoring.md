@@ -6,9 +6,9 @@ title: "Tutoring"
 
 The tutors' job is to help students in the course learn the material.  Please do take advantage of the tutoring when you need help, but always be aware that it is your responsibility to have done all relevant readings, labs, and CloudCoder exercises before you ask the tutors for assistance.  Be sure to read the [How to ask for help](HowToAskForHelp.html) document.
 
-# Evening Sessions (Monday through Thursday, 6:00 to 8:30)
+# Evening Sessions (Monday through Thursday, 6:30pm to 9:00pm)
 Drop-in tutoring sessions will be held Monday through Thursday from
-6:00 to 8:30.  These sessions are a great way to get help with labs,
+6:30pm to 9:00pm.  These sessions are a great way to get help with labs,
 assignments, or anything else you have questions about.
 
 Please refer to the Canvas course page for Zoom links to the tutoring sessions.
