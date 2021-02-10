@@ -64,8 +64,7 @@ Many times in graphics applications that only have a single view, the view and c
 
 Note that by maintaining a model *separate* from the view, we are not locked in to a *single* display format. Instead, we could create several alternative views that use the same model to display the information in different ways.
 
-A complete example
-------------------
+### A complete example
 
 As a simple example program, we will implement a GUI application with a model that contains a single integer counter and a color index. Each time the mouse is clicked, the count increases. Mouse clicks also cause a rectangle displayed in the window to change color.
 
@@ -221,4 +220,4 @@ Here is the code as an Eclipse project:
 
 Here is a much better example project using a Model/View/Controller architecture:
 
-> [mvc-gui-demo.zip](mvc-gui-demo.zip)
+> [CS201_GUIMVCDemo.zip](CS201_GUIMVCDemo.zip)
