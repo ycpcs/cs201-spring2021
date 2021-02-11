@@ -53,6 +53,14 @@ There are two milestones:
 * Milestone 1: Complete the **Disk** class
 * Milestone 2: Complete the **DiskModel** (model) and **DiskPanel** (view-controller) classes
 
+Note that the bodies of some of the methods have the code
+
+{% highlight java %}
+throw new UnsupportedOperationException("not implemented yet");
+{% endhighlight %}
+
+As you implement each method, simply remove this code.
+
 ### Disk class
 
 An instance of the **Disk** class represents one of the disks placed on the game board. Each **Disk** object should store the **x** and **y** coordinates of the disk's center, a **radius**, and a color (represented as member of the **DiskColor** enumeration). You should add fields to the class for each of these 4 properties.

@@ -25,10 +25,14 @@ Modify the program so that it allows the user to drag an outline of a circle aro
 
 -   Use the **handleMouseMove** controller method for when the mouse is being moved. This method should update the outline center fields with the current mouse position coordinates. You can get the coordinates of the mouse pointer using the **e** parameter as follows:
 
+{% highlight java %}
     int x = e.getX();
     int y = e.getY();
+{% endhighlight %}
 
 -   Use the **handleMouseClick** controller method for when a mouse button is clicked. This method should make a new circle (consider the **addCircle** model method) when the left button is clicked as well as increment the counter and reset the outline radius. When the right button is clicked it should increment the radius of the outline by **START_R**. You can check to see which mouse button was clicked as follows:
+
+{% highlight java %}
 
     if (e.getButton() == MouseEvent.BUTTON1) {
         // left button
@@ -37,6 +41,7 @@ Modify the program so that it allows the user to drag an outline of a circle aro
         // right button
         ...
     }
+{% endhighlight %}
 
 -   After the event handlers update the model, call **repaint()** to refresh the view.
 
