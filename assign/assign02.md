@@ -13,7 +13,7 @@ Download [CS201\_Assign02\_Gradle.zip](CS201_Assign02_Gradle.zip) Extract the zi
 
 > **File&rarr;Import...&rarr;Gradle&rarr;Existing Gradle Project**
 
-You should see a project called **CS201\_Assign02\_Gradle** in the Package Explorer window.
+You should see a project called **CS201\_Assign02\_Gradle** in the Package Explorer window (see [Importing and Submitting Projects](../resources/importSubmit.html) for details).
 
 ## Your Task
 
@@ -250,7 +250,7 @@ For both milestones, points may be deducted for poor coding style, including:
 
 ## Submitting
 
-When you are done with each milestone, submit the project to the Marmoset server using the SimpleMarmosetUploader Eclipse plugin.
+When you are done with each milestone, submit the project to the Marmoset server using the [SimpleMarmosetUploader](../resources/index.html) Eclipse plugin (see [Importing and Submitting Projects](../resources/importSubmit.html) for details).
 
 ### From Eclipse
 

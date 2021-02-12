@@ -19,7 +19,7 @@ Download [CS201\_Lab01\_Gradle.zip](CS201_Lab01_Gradle.zip). Extract the zip fil
 
 > **File&rarr;Import...&rarr;Gradle&rarr;Existing Gradle Project**
 
-You should see a project called **CS201\_Lab01\_Gradle** in the Package Explorer window.
+You should see a project called **CS201\_Lab01\_Gradle** in the Package Explorer window (see [Importing and Submitting Projects](../resources/importSubmit.html) for details).
 
 Run the program by right-clicking on the file **DogYears.java** in the **src/main/java/(default package)** package, and then choosing
 
@@ -35,7 +35,7 @@ When you are done, submit the lab to the Marmoset server using either of the met
 
 ### From Eclipse
 
-If you have the [Simple Marmoset Uploader Plugin](../resources/index.html) installed, then right click on the project (**CS201\_Lab01\_Gradle**) and choose **Submit project...**. Enter your Marmoset username and password when prompted.
+If you have the [Simple Marmoset Uploader Plugin](../resources/index.html) installed, then right click on the project (**CS201\_Lab01\_Gradle**) and choose **Submit project...**. Enter your Marmoset username and password when prompted (see [Importing and Submitting Projects](../resources/importSubmit.html) for details).
 
 ### From a web browser
 

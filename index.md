@@ -15,6 +15,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * [Lecture Schedule/Readings](schedule.html)
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
+* [Importing and Submitting](resources/importSubmit.html)
 * [Resources](resources/index.html)
 * [Tutoring](tutoring.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
