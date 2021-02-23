@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 2: Tic Tac Toe"
 ---
 
-**Milestone 1 Due:** Tuesday, Mar 2nd by 11:59 PM
+**Milestone 1 Due:** Thursday, Mar 4th by 11:59 PM
 
-**Milestone 2 Due:** Wednesday, Mar 10th by 11:59 PM
+**Milestone 2 Due:** Friday, Mar 12th by 11:59 PM
 
 ## Getting Started
 
@@ -57,7 +57,7 @@ For the model class, you must implement the following game logic methods:
 
 * Constructor which initializes the board array and starts the game with **PLAYER_X**
 
-* **public int[][] getBoard(int[][] board)** - This method should return the array representing the board.
+* **public int[][] getBoard()** - This method should return the array representing the board.
 
 * **public boolean isLegalMove(int player, int row, int col)** - A legal move is one in which the specified row and column are each in the range 0-2 (inclusive), along with the board containing a blank space (0 value) at that position and it is the players turn.  The method should return **true** if the move is legal, and **false** if the move is not legal.
 

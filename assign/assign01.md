@@ -5,7 +5,7 @@ title: "Assignment 1: Disk Game"
 
 **Milestone 1 Due:** Thursday, Feb 11th by 11:59 PM
 
-**Milestone 2 Due:** Monday, Feb 22nd by 11:59 PM
+**Updated Milestone 2 Due:** Wednesday, Feb 24th by 11:59 PM
 
 Acknowledgment: The idea for this assignment comes from [Tom Ellman](http://pages.vassar.edu/tomellman/) at Vassar College.
 
