@@ -3,10 +3,18 @@ layout: default
 title: "Example Code"
 ---
 
-This page links to additional example code.
+This page links to lecture example code.
 
-File                             | Description
--------------------------------- | -----------
+Date     |    File                          
+-------- | --------------------------------
+Feb 18   | [CS201\_Lecture06\_Gradle.zip](CS201_Lecture06_Gradle.zip)  
+Feb 23   | [CS201\_Lecture07\_Gradle.zip](CS201_Lecture07_Gradle.zip)  
+Feb 25   | [CS201\_Lecture08\_Gradle.zip](CS201_Lecture08_Gradle.zip)  
+
+Additional examples
+
+File     | Description                          
+-------- | --------------------------------
 [Point.zip](Point.zip)           | Example class with JUnit test
 [FileIO.zip](FileIO.zip)         | Examples of text file input/output
 [ExampleGUI.zip](ExampleGUI.zip) | Example MVC GUI
