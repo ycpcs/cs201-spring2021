@@ -87,7 +87,7 @@ An instance of the **TicTacToeController** class will implement methods that tak
 
 * **public void updateBoard(TicTacToeModel model, int row, int col)** - This method should update the board with the current player's marker. *Hint:* Consider using the **placeMarker()** method of the model object parameter.
 
-* **public void changePlayer()** - This method should swap the current player. *Hint:* Consider using the **updateTurn()** method of the model object parameter.
+* **public void changePlayer(TicTacToeModel model)** - This method should swap the current player. *Hint:* Consider using the **updateTurn()** method of the model object parameter.
 
 ### TicTacToePanel class
 
