@@ -21,16 +21,16 @@ Modify the program so that it allows the user to drag an outline of a circle aro
 
 -   Consider what information the model class should contain. You can use a **Circle** object for the placed circle.
 
--   The **CirclesPanel** class should contain a field for the model as well as fields for the outlined circle's center and radius. The initial radius can be set to **START_R**.
+-   The **CirclesPanel** class should contain a field for the model as well as fields for the outlined circle's center and radius. The initial radius can be set to **CirclesModel.START_R**.
 
--   Use the **handleMouseMove** controller method for when the mouse is being moved. This method should update the outline center fields with the current mouse position coordinates. You can get the coordinates of the mouse pointer using the **e** parameter as follows:
+-   Use the **handleMouseMove** controller method for when the mouse is being moved. This method should update the outline center fields with the current mouse position coordinates. You can get the coordinates of the mouse pointer using the **e** parameter to store into the **x** and **y** fields as follows:
 
 {% highlight java %}
-    int x = e.getX();
-    int y = e.getY();
+    x = e.getX();
+    y = e.getY();
 {% endhighlight %}
 
--   Use the **handleMouseClick** controller method for when a mouse button is clicked. This method should make a new circle (consider the **addCircle** model method) when the left button is clicked as well as increment the counter and reset the outline radius. When the right button is clicked it should increment the radius of the outline by **START_R**. You can check to see which mouse button was clicked as follows:
+-   Use the **handleMouseClick** controller method for when a mouse button is clicked. This method should make a new circle (consider the **addCircle** model method) when the left button is clicked as well as increment the counter and reset the outline radius. When the right button is clicked it should increment the radius of the outline by **CirclesModel.START_R**. You can check to see which mouse button was clicked as follows:
 
 {% highlight java %}
 
