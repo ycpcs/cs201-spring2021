@@ -113,13 +113,13 @@ if (placeCardRank.ordinal() == topCardRank.ordinal() - 1) {
 
 ## Grading
 
-Milestone 1:
+**Milestone 1:**
 
 * Pile &ndash; 50%
 * Selection &ndash; 25%
 * KlondikeModel &ndash; 25%
 
-Milestone 2:
+**Milestone 2:**
 
 * Initialization of game state &ndash; 10%
 * Selecting cards &ndash; 15%
@@ -139,7 +139,7 @@ For both milestones, points may be deducted for poor coding style, including:
 
 For up to 20 points extra credit on Milestone 2 (i.e., a maximum grade of up to 120/100), implement a GUI like the one linked in the "Rules of the game" section.  It should look something like this (click for larger image):
 
-> <a href="img/assign04/testgame.png"><img alt="Screenshot" style="width: 404px;" src="img/assign04/testgame.png"></a>
+> <a href="img/assign03/testgame.png"><img alt="Screenshot" style="width: 404px;" src="img/assign03/testgame.png"></a>
 
 A partial GUI implementation is given to you in **KlondikeView**.  If your classes are working correctly, it should show you an initial game state.  You will need to handle mouse events to allow the player to draw a card, move cards, etc.
 
