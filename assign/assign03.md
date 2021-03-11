@@ -34,7 +34,7 @@ A few other enumerations and classes are provided. The **Color** enumeration rep
 
 These are the classes you will need to complete:
 
-* **Pile** &mdash; represents a pile of cards, similar to the **Deck** class from labs 9 and 10
+* **Pile** &mdash; represents a pile of cards, similar to the **Deck** class from labs 9 and 10. **This class MUST use and ArrayList.**
 * **KlondikeModel** &mdash; represents all of the **Pile**s
 * **Selection** &mdash; a sequence of one or more cards taken from the main deck or a tableau pile as the first step in moving cards from one pile to another
 * **KlondikeController** &mdash; handles all of the game logic and updates to the model
