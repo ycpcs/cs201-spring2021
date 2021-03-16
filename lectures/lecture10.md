@@ -177,10 +177,10 @@ For example, the **String** class implements the **Comparable** interface. Its *
 
 ### Implementing Comparable
 
-Say we have an **Employee** class:
+Say we have an **Employee** class and that we want to have **Employee** implement the **Comparable** interface. 
 
 {% highlight java %}
-public class Employee {
+public class Employee implements Comparable {
   private String lastName;
   private String firstName;
   private int salary;
@@ -188,7 +188,7 @@ public class Employee {
   ...
 {% endhighlight %}
 
-Let's say we want to have **Employee** implement the **Comparable** interface. We must define *how* **Employee** objects are to be compared. We'll choose that **Employee** objects are compared first by last name, then by first name, then by salary:
+We must define *how* **Employee** objects are to be compared by implementing the **compareTo()** method. We'll choose that **Employee** objects are compared first by last name, then by first name, then by salary:
 
 {% highlight java %}
 public int compareTo(Object o) {
@@ -218,3 +218,5 @@ public int compareTo(Object o) {
   }
 }
 {% endhighlight %}
+
+Note that the **compareTo()** method takes a parameter of type **Object** thus we must *cast* it to an **Employee** object before using it. This can be problematic since the method itself will not prevent other non-**Employee** objects from being passed to the **compareTo()** method (since *all* objects are **Object**s), and while we could do a check using **instanceof** there is no meaningful action to take if the object is not an **Employee** other than throwing an exception. In the next lecture we will see how to prevent this issue by using a *type parameter* for the **Comparable** interface.
