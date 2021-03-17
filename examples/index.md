@@ -13,6 +13,7 @@ Feb 25   | [CS201\_Lecture08\_Gradle.zip](CS201_Lecture08_Gradle.zip)
 Mar 2    | [CS201\_Lecture09\_Gradle.zip](CS201_Lecture09_Gradle.zip)  
 Mar 4    | [CS201\_Lecture10\_Gradle.zip](CS201_Lecture10_Gradle.zip)  
 Mar 16   | [CS201\_Lecture11\_Gradle.zip](CS201_Lecture11_Gradle.zip) <br />  [CS201\_Lecture11\_Gradle\_Final.zip](CS201_Lecture11_Gradle_Final.zip)
+Mar 18   | [CS201\_Lecture12\_Gradle.zip](CS201_Lecture12_Gradle.zip)  
 
 Additional examples
 
