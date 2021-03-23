@@ -11,7 +11,7 @@ Download [CS201\_Lab13\_Gradle.zip](CS201_Lab13_Gradle.zip). Extract the zip fil
 
 You should see a project called **CS201\_Lab13\_Gradle** in the Package Explorer window.
 
-##Your Task
+## Your Task
 
 Your task is to benchmark removing all elements from an **ArrayList** using two techniques:
 
