@@ -37,31 +37,6 @@ Here is a class hierarchy diagram showing the **Collection&lt;E&gt;**, **List&lt
 
 We have already seen and used the **ArrayList&lt;E&gt;** class. We will investigate each of other classes (**LinkedList&lt;E&gt;**, **HashSet&lt;E&gt;**, and **TreeSet&lt;E&gt;**) in the coming weeks.
 
-## Maps
-
-A *map* is a data structure which maps a set of *keys* to a corresponding set of *values*. For example, a phone book is like a map: the keys are names and the values are phone numbers.
-
-One way to think about maps is that they are like arrays, but instead of requiring the index type to be **int**, *any* type may be used as the index.
-
-Here are some of the methods in the **Map&lt;K,V&gt;** interface:
-
--   **V put(K key, V value)** - add a new entry associating a given key with a given value. Returns previous value associated with the key (null if none).
--   **V get(K key)** - returns the value currently associated with the given key (null if none)
-
-In the same way that implementations of the **Set&lt;E&gt;** interface contain a very efficient implementation of the **contains(Object o)** method, implementations of **Map&lt;K, V&gt;** contain a very efficient implementation of the **V get(Key y)** method.
-
-Note that the **Map&lt;K, V&gt;** interface has two type parameters, one (**K**) to represent the type of the keys, and another (**V**) to represent the type of the values. For example, if we had classes **Name** and **PhoneNumber**, then a phone book could be represented as follows:
-
-{% highlight java %}
-Map<Name, PhoneNumber> phoneBook;
-{% endhighlight %}
-
-There are two main implementations of the **Map&lt;K, V&gt;** interface: **HashMap&lt;K, V&gt;** and **TreeMap&lt;K, V&gt;**:
-
-> ![image](figures/lecture14-maps.png)
-
-We will learn about both implementations in the coming weeks.
-
 ## Iterators
 
 An *iterator* is a functor whose purpose is to traverse the elements of a collection.

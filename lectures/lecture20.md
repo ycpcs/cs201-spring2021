@@ -32,6 +32,8 @@ A map is a *dictionary* data structure. A map contains a set of *keys*, each key
 
 A good analogy is a phone book, which is a map from names (the key type) to phone numbers (the value type).
 
+One way to think about maps is that they are like arrays, but instead of requiring the index type to be **int**, *any* type may be used as the index.
+
 The **Map&lt;K, V&gt;** interface defines the map operations. (**K** is the type parameter specifying the key type, and **V** is the type parameter specifying the value type.) The most important map operations are:
 
 {% highlight java %}
