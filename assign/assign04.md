@@ -282,7 +282,7 @@ When you are done with each milestone, submit the project to the Marmoset server
 
 Use the [Simple Marmoset Uploader Plugin](../resources.html), by selecting the project (**CS201\_Assign04\_Gradle**) in the package explorer and then clicking the blue up arrow button in the toolbar (or right click and choose **Submit project...**). Enter your Marmoset username and password when prompted.  Make sure your choose **assign04\_ms1** or **assign04\_ms2** as the inbox:
 
-> <img src="img/assign02/upload.png" alt="Choosing the inbox for assignment 3" style="width: 400px;">
+> <img src="img/assign04/upload.png" alt="Choosing the inbox for assignment 4" style="width: 400px;">
 
 ### After you submit
 
