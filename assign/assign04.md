@@ -104,7 +104,7 @@ JUnit test cases have been provided for the **createIterSpectrumMap()** and **cr
 
 Using this class (you'll need to uncomment the selection code in the **main** method in the **Mandelbrot** class) should produce something similar to the following output file (click to see larger version):
 
-> <a href="img/assign04/chooseroutput.png"><img style="width: 300px; height: 300px;" src="img/assign05/chooseroutput.png" /></a>
+> <a href="img/assign04/chooseroutput.png"><img style="width: 300px; height: 300px;" src="img/assign04/chooseroutput.png" /></a>
 
 ## Hints
 
@@ -243,7 +243,7 @@ and is assigned to the **iterColorMap** with its respective **iterCount** key.
 
 The RGB color generation graph for the above scheme is shown below:
 
-> <a href="img/assign04/TrigColorGeneration.png"><img style="width: 600px; height: 250px;" src="img/assign05/TrigColorGeneration.png" /></a>
+> <a href="img/assign04/TrigColorGeneration.png"><img style="width: 600px; height: 250px;" src="img/assign04/TrigColorGeneration.png" /></a>
 
 ## Grading Criteria
 
